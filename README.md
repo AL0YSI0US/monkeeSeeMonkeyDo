@@ -2,11 +2,13 @@
 
 **Hello there**,
 
-I've entered a game of *"monkey see monkey do"* upon entering the 301 learning curriculum.
+I've obviously entered a game of *"monkey see monkey do"* upon entering the 301 learning curriculum.
 
-This repository will host the code for a live site that  once rendered ought to look excactly like the following class provided image: {wish me luck}
+This repository will host the code for a live site that once rendered ought to look excactly like the following 
 
-![]()
+image provided by codefellows:
+
+![](https://github.com/AL0YSI0US/monkeeSeeMonkeyDo/blob/main/img/PREVIEW.png?raw=true)
 
 ## Designer: [aloe-wish-iss]
 
