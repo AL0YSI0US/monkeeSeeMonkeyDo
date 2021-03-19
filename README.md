@@ -4,7 +4,7 @@
 
 I've obviously entered a game of *"monkey see monkey do"* upon entering the 301 learning curriculum.
 
-This repository will host the code for a live site that once rendered ought to look excactly like the following 
+This repository will host the code for a live site that once rendered ought to look excactly like the following
 
 image provided by codefellows:
 
@@ -24,4 +24,19 @@ image provided by codefellows:
 
 ## L I N K S  &  R E S O U R C E S
 
-+
++ [Text indent property](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_text-indent) - w3schools sandbox
+
+`````css
+<style>
+div.a {
+  text-indent: 50px;
+}
+
+div.b {
+  text-indent: -2em;
+}
+
+div.c {
+  text-indent: 30%;
+}
+`````

@@ -1,0 +1,70 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#Delicious {
+  position: relative;
+  float: left;
+  margin-top: 20px;
+  margin-left: 200px;
+}
+#paragraphs {
+  text-indent: 2em;
+}
+
+
+/* 
+#Delicious h1 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 36px;
+  padding-top: 30px;
+}
+#Delicious p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: xx-small;
+  color: rgb(135, 134, 134);
+}
+
+#social-bullets {
+  float: right;
+  margin-right: 20px;
+  margin-top: -30px;
+}
+
+#little-repeat-top {    
+  background-repeat: repeat;
+  background-image: url("/img/hr-img.png");
+  width: 900px;
+  margin-top: 30px;
+}
+
+#chocolate-pizza h2 {
+  font-family: Arial, Helvetica, sans-serif; 
+  font-weight: bold;
+  font-size: 40px;
+  margin-top: 60px;
+}
+
+#chocolate-pizza p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 12px;
+  color: rgb(135, 134, 134);
+}
+
+#chocolate-pizza img {
+  float: right;
+  margin-right: 60px;
+  margin-top: -10px;
+}
+
+
+#ingredients {
+  display: block;
+}
+
+p {
+  text-indent: 30px;
+  margin-top: 30px;
+}
+ */
